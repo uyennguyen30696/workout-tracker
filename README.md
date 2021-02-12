@@ -12,7 +12,7 @@ The user should be able to:
 
   * View the combined weight of multiple exercises on the `stats` page, displayed as charts.
 
-Check out the deployed link on Heroku [here]().
+Check out the deployed link on Heroku [here](https://workout-tracker-by-uyen.herokuapp.com/).
 
 ### User Story
 
